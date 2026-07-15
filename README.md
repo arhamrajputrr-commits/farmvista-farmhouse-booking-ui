@@ -31,7 +31,3 @@ A modern and responsive farmhouse listing website built with HTML5 and CSS3.
 - Booking System
 - Admin Dashboard
 - User Authentication
-
-## 👨‍💻 Author
-
-**Arham Rajput**
